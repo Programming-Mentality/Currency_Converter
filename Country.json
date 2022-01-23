@@ -1,0 +1,130 @@
+[
+    {
+        "Name": "Australian Dollar",
+        "ISO_Code": "AUD"
+    },
+    {
+        "Name": "Brazilian Real",
+        "ISO_Code": "BRL"
+    },
+    {
+        "Name": "Bulgarian Lev",
+        "ISO_Code": "BGN"
+    },
+    {
+        "Name": "Canadian Dollar",
+        "ISO_Code": "CAD"
+    },
+    {
+        "Name": "Chinese Yuan",
+        "ISO_Code": "CNY"
+    },
+    {
+        "Name": "Croatian Kuna",
+        "ISO_Code": "HRK"
+    },
+    {
+        "Name": "Czech Koruna",
+        "ISO_Code": "CZK"
+    },
+    {
+        "Name": "Danish Krone",
+        "ISO_Code": "DKK"
+    },
+    {
+        "Name": "Euro",
+        "ISO_Code": "EUR"
+    },
+    {
+        "Name": "Hong Kong Dollar",
+        "ISO_Code": "HKD"
+    },
+    {
+        "Name": "Hungarian Forint",
+        "ISO_Code": "HUF"
+    },
+    {
+        "Name": "Icelandic Króna",
+        "ISO_Code": "ISK"
+    },
+    {
+        "Name": "Indian Rupee",
+        "ISO_Code": "INR"
+    },
+    {
+        "Name": "Indonesian Rupiah",
+        "ISO_Code": "IDR"
+    },
+    {
+        "Name": "Israeli New Shekel",
+        "ISO_Code": "ILS"
+    },
+    {
+        "Name": "Japanese Yen",
+        "ISO_Code": "JPY"
+    },
+    {
+        "Name": "Malaysian Ringgit",
+        "ISO_Code": "MYR"
+    },
+    {
+        "Name": "Mexican Peso",
+        "ISO_Code": "MXN"
+    },
+    {
+        "Name": "New Zealand Dollar",
+        "ISO_Code": "NZD"
+    },
+    {
+        "Name": "Norwegian Krone",
+        "ISO_Code": "NOK"
+    },
+    {
+        "Name": "Philippine peso",
+        "ISO_Code": "PHP"
+    },
+    {
+        "Name": "Poland złoty",
+        "ISO_Code": "PLN"
+    },
+    {
+        "Name": "Pound sterling",
+        "ISO_Code": "GBP"
+    },
+    {
+        "Name": "Romanian Leu",
+        "ISO_Code": "RON"
+    },
+    {
+        "Name": "Russian Ruble",
+        "ISO_Code": "RUB"
+    },
+    {
+        "Name": "South African Rand",
+        "ISO_Code": "ZAR"
+    },
+    {
+        "Name": "South Korean won",
+        "ISO_Code": "KRW"
+    },
+    {
+        "Name": "Swedish Krona",
+        "ISO_Code": "SEK"
+    },
+    {
+        "Name": "Swiss Franc",
+        "ISO_Code": "CHF"
+    },
+    {
+        "Name": "Thai Baht",
+        "ISO_Code": "THB"
+    },
+    {
+        "Name": "Turkish lira",
+        "ISO_Code": "TRY"
+    },
+    {
+        "Name": "United States Dollar",
+        "ISO_Code": "USD"
+    }
+]
